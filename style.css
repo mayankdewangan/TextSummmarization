@@ -1,0 +1,30 @@
+.original_title {
+  background-color: antiquewhite;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 2px;
+  display: flex;
+  justify-content: center;
+}
+
+.summary_title {
+  background-color: khaki;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 2px;
+  display: flex;
+  justify-content: center;
+}
+
+.srt {
+  display: flex;
+  flex-direction: row;
+}
+.originalTxt {
+  padding: 20px;
+}
+
+.summaryTxt{
+    padding: 20px;
+    margin-left: 10px;
+}
